@@ -1,3 +1,19 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [Impressia/Impressia](https://github.com/Impressia/Impressia) (ex _Vernissage_)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+- `Add missing accessibility labels for buttons of compose view` ([#147](https://github.com/Impressia/Impressia/pull/147))
+- `Fix avatar layout for Liquid Glass` ([#145](https://github.com/Impressia/Impressia/pull/145))
+- `Fix typo in english wording` ([#116](https://github.com/Impressia/Impressia/pull/116))
+- `Update french wording` ([#114](https://github.com/Impressia/Impressia/pull/114))
+- `Display of wording value instead of wording key in tips` ([#113](https://github.com/Impressia/Impressia/pull/113))
+
 # Impressia
 
 <img src="Resources/01.png" width="200" > <img src="Resources/04.png" width="200" > <img src="Resources/05.png" width="200" > <img src="Resources/06.png" width="200" >
