@@ -1,3 +1,31 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [Impressia/Impressia](https://github.com/Impressia/Impressia) (ex _Vernissage_)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+- `Trigger search of places by text field submit` ([#172](https://github.com/Impressia/Impressia/pull/172))
+- `Edit status feature` ([#171](https://github.com/Impressia/Impressia/pull/171))
+- `Fix count of comments display` ([#168](https://github.com/Impressia/Impressia/pull/168))
+- `Fix icon color of delete action` ([#167](https://github.com/Impressia/Impressia/pull/167))
+- `Let user copy to clipboard project fediverse handles to ease use` ([#162](https://github.com/Impressia/Impressia/pull/162))
+- `Add grid display for feeds` ([#160](https://github.com/Impressia/Impressia/pull/160))
+- `Improve vocalization of ALT and close button for attached photo in compose view` ([#159](https://github.com/Impressia/Impressia/pull/159))
+- `Improve vocalization of notifications in dedicated view` ([#157](https://github.com/Impressia/Impressia/pull/157))
+- `Vocalize count and type for interaction row buttons with associated values` ([#155](https://github.com/Impressia/Impressia/pull/155))
+- `Voice Over vocalization and navigation in settings view` ([#153](https://github.com/Impressia/Impressia/pull/153))
+- `Add missing vocalization of image content, spoiler text and errors` ([#151](https://github.com/Impressia/Impressia/pull/151))
+- `Hide decorative image for location in compose view` ([#149](https://github.com/Impressia/Impressia/pull/149))
+- `Add missing accessibility labels for buttons of compose view` ([#147](https://github.com/Impressia/Impressia/pull/147))
+- `Fix avatar layout for Liquid Glass` ([#145](https://github.com/Impressia/Impressia/pull/145))
+- `Fix typo in english wording` ([#116](https://github.com/Impressia/Impressia/pull/116))
+- `Update french wording` ([#114](https://github.com/Impressia/Impressia/pull/114))
+- `Display of wording value instead of wording key in tips` ([#113](https://github.com/Impressia/Impressia/pull/113))
+
 # Impressia
 
 <img src="Resources/01.png" width="200" > <img src="Resources/04.png" width="200" > <img src="Resources/05.png" width="200" > <img src="Resources/06.png" width="200" >
