@@ -2564,6 +2564,7 @@
       }
     },
     "global.error.refreshTokenFailed" : {
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2704,6 +2705,7 @@
       }
     },
     "global.title.newAccessTokenRetrieved" : {
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -7975,7 +7977,7 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Noter Impressia"
           }
         },
@@ -8674,7 +8676,7 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Merci pour votre achat. Les achats, petits et grands, nous aident à réaliser notre rêve de fournir des produits de la meilleure qualité à nos clients. Nous espérons que vous aimez Impressia."
           }
         },
@@ -9048,7 +9050,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La communication avec le server a échoué."
+            "value" : "La communication avec le serveur a échoué."
           }
         },
         "it" : {
